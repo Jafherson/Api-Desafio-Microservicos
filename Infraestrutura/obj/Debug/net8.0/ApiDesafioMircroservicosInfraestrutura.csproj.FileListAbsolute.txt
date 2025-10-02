@@ -1,0 +1,16 @@
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\Infraestrutura\bin\Debug\net8.0\ApiDesafioMircroservicosInfraestrutura.deps.json
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\Infraestrutura\bin\Debug\net8.0\ApiDesafioMircroservicosInfraestrutura.dll
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\Infraestrutura\bin\Debug\net8.0\ApiDesafioMircroservicosInfraestrutura.pdb
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\Infraestrutura\bin\Debug\net8.0\ApiDesafioMicroservicosDomain.dll
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\Infraestrutura\bin\Debug\net8.0\ApiDesafioMicroservicosDomain.pdb
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\Infraestrutura\obj\Debug\net8.0\ApiDesafioMircroservicosInfraestrutura.csproj.AssemblyReference.cache
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\Infraestrutura\obj\Debug\net8.0\ApiDesafioMircroservicosInfraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\Infraestrutura\obj\Debug\net8.0\ApiDesafioMircroservicosInfraestrutura.AssemblyInfoInputs.cache
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\Infraestrutura\obj\Debug\net8.0\ApiDesafioMircroservicosInfraestrutura.AssemblyInfo.cs
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\Infraestrutura\obj\Debug\net8.0\ApiDesafioMircroservicosInfraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\Infraestrutura\obj\Debug\net8.0\ApiDesafioMircroservicosInfraestrutura.sourcelink.json
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\Infraestrutura\obj\Debug\net8.0\ApiDesaf.5FC05CCF.Up2Date
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\Infraestrutura\obj\Debug\net8.0\ApiDesafioMircroservicosInfraestrutura.dll
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\Infraestrutura\obj\Debug\net8.0\refint\ApiDesafioMircroservicosInfraestrutura.dll
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\Infraestrutura\obj\Debug\net8.0\ApiDesafioMircroservicosInfraestrutura.pdb
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\Infraestrutura\obj\Debug\net8.0\ref\ApiDesafioMircroservicosInfraestrutura.dll

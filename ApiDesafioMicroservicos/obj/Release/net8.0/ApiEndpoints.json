@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "ApiDesafioMicroservicos.Controllers.ProdutoController",
+    "Method": "Add",
+    "RelativePath": "Api/v1/Produto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "produtoViewModel",
+        "Type": "ApiDesafioMicroservicos.ViewModel.ProdutoViewModelCadastro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiDesafioMicroservicos.Controllers.ProdutoController",
+    "Method": "Get",
+    "RelativePath": "Api/v1/Produto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiDesafioMicroservicos.Controllers.ProdutoController",
+    "Method": "SubtrairQuantidade",
+    "RelativePath": "Api/v1/Produto",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idProduto",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "quantidade",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

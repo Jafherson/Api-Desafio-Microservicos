@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "ApiDesafioMicroservicosVenda.Controllers.PedidoController",
+    "Method": "Add",
+    "RelativePath": "api/v1/Pedido",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedidoViewModel",
+        "Type": "ApiDesafioMicroservicosVenda.ViewModel.PedidoViewModelCadastro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiDesafioMicroservicosVenda.Controllers.PedidoController",
+    "Method": "ListarPedidoEstatus",
+    "RelativePath": "api/v1/Pedido/estatus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiDesafioMicroservicosVenda.Controllers.PedidoController",
+    "Method": "ListarPedidos",
+    "RelativePath": "api/v1/Pedido/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiDesafioMicroservicos.Controllers.ProdutoController",
+    "Method": "SubtrairQuantidade",
+    "RelativePath": "Api/v1/Produto/Atualizar/Quantidade",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idProduto",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "quantidade",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiDesafioMicroservicos.Controllers.ProdutoController",
+    "Method": "Add",
+    "RelativePath": "Api/v1/Produto/Cadastrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "produtoViewModel",
+        "Type": "ApiDesafioMicroservicos.ViewModel.ProdutoViewModelCadastro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiDesafioMicroservicos.Controllers.ProdutoController",
+    "Method": "Get",
+    "RelativePath": "Api/v1/Produto/Listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

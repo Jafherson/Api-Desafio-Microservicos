@@ -1,0 +1,12 @@
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\ApiDesafioMicroservicosDomain\bin\Release\net8.0\ApiDesafioMicroservicosDomain.deps.json
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\ApiDesafioMicroservicosDomain\bin\Release\net8.0\ApiDesafioMicroservicosDomain.dll
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\ApiDesafioMicroservicosDomain\bin\Release\net8.0\ApiDesafioMicroservicosDomain.pdb
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\ApiDesafioMicroservicosDomain\obj\Release\net8.0\ApiDesafioMicroservicosDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\ApiDesafioMicroservicosDomain\obj\Release\net8.0\ApiDesafioMicroservicosDomain.AssemblyInfoInputs.cache
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\ApiDesafioMicroservicosDomain\obj\Release\net8.0\ApiDesafioMicroservicosDomain.AssemblyInfo.cs
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\ApiDesafioMicroservicosDomain\obj\Release\net8.0\ApiDesafioMicroservicosDomain.csproj.CoreCompileInputs.cache
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\ApiDesafioMicroservicosDomain\obj\Release\net8.0\ApiDesafioMicroservicosDomain.dll
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\ApiDesafioMicroservicosDomain\obj\Release\net8.0\refint\ApiDesafioMicroservicosDomain.dll
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\ApiDesafioMicroservicosDomain\obj\Release\net8.0\ApiDesafioMicroservicosDomain.pdb
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\ApiDesafioMicroservicosDomain\obj\Release\net8.0\ref\ApiDesafioMicroservicosDomain.dll
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\ApiDesafioMicroservicosDomain\obj\Release\net8.0\ApiDesafioMicroservicosDomain.sourcelink.json

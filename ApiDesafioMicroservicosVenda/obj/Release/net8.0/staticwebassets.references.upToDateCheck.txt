@@ -1,0 +1,3 @@
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\ApiDesafioMicroservicos\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\ApiDesafioMicroservicos\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\Jafherson\source\repos\ApiDesafioMicroservicos\ApiDesafioMicroservicos\obj\Release\net8.0\staticwebassets.build.json

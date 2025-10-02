@@ -1,0 +1,6 @@
+@ApiDesafioMicroservicosVenda_HostAddress = http://localhost:5073
+
+GET {{ApiDesafioMicroservicosVenda_HostAddress}}
+Accept: application/json
+
+###
